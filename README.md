@@ -7,4 +7,4 @@ This tool is intended to help easily view your diffs in GitHub.
 - `pip3 install pygit2`
 
 ## Running
-- `python3 test.py`
+- `./test.py`
