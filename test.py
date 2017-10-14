@@ -23,3 +23,6 @@ if __name__ == "__main__":
   os.system(push_command)
   origin_url = get_origin_url()
   print('View diff at ' + get_diff_url())
+
+
+# testing
