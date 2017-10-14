@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pygit2
 import os
 import subprocess
